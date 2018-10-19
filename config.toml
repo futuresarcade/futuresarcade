@@ -1,10 +1,9 @@
-baseURL = "https://example.com/"
+baseURL = "http://futuresarcade.com.s3-website-us-east-1.amazonaws.com/"
 title = "Indigo Theme"
 copyright = "Copyright © 2018, Author Name"
 languageCode = "en-US"
 theme = "indigo"
 paginate = 3
-theme = indgo
 
 [params]
   Author = "Author Name"
