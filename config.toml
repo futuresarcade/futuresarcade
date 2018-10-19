@@ -4,6 +4,7 @@ copyright = "Copyright © 2018, Author Name"
 languageCode = "en-US"
 theme = "indigo"
 paginate = 3
+theme = indgo
 
 [params]
   Author = "Author Name"
