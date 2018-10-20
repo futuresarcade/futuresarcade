@@ -1,7 +1,7 @@
 ---
 title: "Adding Page Items"
 menu: "main"
-draft: false
+draft: true
 ---
 
 Indigo supports adding a simple navigation-style menu items across the top of the site. To do so, simply add a `menu: "main"` entry in your page's front matter (TOML format shown).

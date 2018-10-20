@@ -1,7 +1,7 @@
 ---
 title: "About The Theme"
 menu: "main"
-draft: false
+draft: true
 ---
 
 Indigo is a lightweight theme for [Hugo][hugo] with [IndieWeb][indieweb] features baked in. It's great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.

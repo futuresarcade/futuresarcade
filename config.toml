@@ -1,5 +1,5 @@
 baseURL = "http://futuresarcade.com.s3-website-us-east-1.amazonaws.com/"
-title = "Indigo Theme"
+title = "Futures Arcades"
 copyright = "Copyright © 2018, Author Name"
 languageCode = "en-US"
 theme = "indigo"
@@ -7,9 +7,9 @@ paginate = 3
 
 [params]
   Author = "Author Name"
-  Description = "Description of website for head meta tag"
-  Subtitle = "A subtitle for your site"
-  Avatar = "images/site-logo.svg"
+  Description = "Life, Art, Cooking, Travels, Sports,  Politics, Trading"
+  Subtitle = "Life Art Politics Trading"
+  Avatar = "images/site-logo.png"
   Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
   ShowBio = true
   PermalinkText = "🔗"
