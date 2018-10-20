@@ -1,7 +1,7 @@
 ---
 title: "Introducing Indigo"
 date: 2018-10-01T09:00:00-04:00
-draft: false
+draft: true
 categories: ["meta"]
 tags: ["typography", "indieweb"]
 ---
