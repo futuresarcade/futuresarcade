@@ -11,7 +11,7 @@ paginate = 3
   Subtitle = "Life Art Politics Trading"
   Avatar = "images/site-logo.png"
   Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
-  ShowBio = true
+  ShowBio = false
   PermalinkText = "🔗"
 
   # Contact/social-network identifiers for social icons
