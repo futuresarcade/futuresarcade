@@ -1,5 +1,5 @@
 baseURL = "http://futuresarcade.com.s3-website-us-east-1.amazonaws.com/"
-title = "Futures Arcades"
+title = "Futures Arcade"
 copyright = "Copyright © 2018, Author Name"
 languageCode = "en-US"
 theme = "indigo"
