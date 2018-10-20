@@ -1,4 +1,4 @@
-baseURL = "https://www.futuresarcade.com/"
+bbaseURL = "https://www.futuresarcade.com/"
 title = "Futures Arcade"
 copyright = "Copyright © 2018, Author Name"
 languageCode = "en-US"
@@ -6,12 +6,12 @@ theme = "indigo"
 paginate = 3
 
 [params]
-  Author = "Author Name"
-  Description = "Life, Art, Cooking, Travels, Sports,  Politics, Trading"
-  Subtitle = "Life Art Politics Trading"
+  Author = "Thorvald Sanchez"
+  Description = "Description of website for head meta tag"
+  Subtitle = "Life Art Politics Trading Books"
   Avatar = "images/site-logo.png"
   Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
-  ShowBio = falses
+  ShowBio = false
   PermalinkText = "🔗"
 
   # Contact/social-network identifiers for social icons
