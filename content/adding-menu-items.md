@@ -1,9 +1,7 @@
 ---
-title: "Adding Page Items"
+title: "Disclaimer"
 menu: "main"
-draft: true
+draft: false
 ---
 
-Indigo supports adding a simple navigation-style menu items across the top of the site. To do so, simply add a `menu: "main"` entry in your page's front matter (TOML format shown).
-
-If no date is included in the front matter, then the published date won't be shown (as in this page).
+This information is not to be construed as an offer to sell or a solicitation or an offer to buy the commodities herein named. The factual information of this report has been obtained from sources believed to be reliable, but is not necessarily all-inclusive and is not guaranteed as to the accuracy, and is not to be construed as representation by Thorvald Sanchez. The risk of trading futures and options can be substantial. Each investor must consider whether this is a suitable investment. Past performance is not indicative of future results.
