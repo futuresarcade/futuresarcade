@@ -1,4 +1,4 @@
-baseURL = "https://futuresarcade.com/"
+baseURL = "https://www.futuresarcade.com/"
 title = "Futures Arcade"
 copyright = "Copyright © 2018, Author Name"
 languageCode = "en-US"
@@ -11,7 +11,7 @@ paginate = 3
   Subtitle = "Life Art Politics Trading"
   Avatar = "images/site-logo.png"
   Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
-  ShowBio = false
+  ShowBio = falses
   PermalinkText = "🔗"
 
   # Contact/social-network identifiers for social icons
