@@ -8,7 +8,6 @@ tags: ["typography", "indieweb"]
 
 Indigo is a lightweight theme for [Hugo][hugo] with [IndieWeb][indieweb] features baked in. It's great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.
 
-<!--more-->
 
 ## IndieWeb features
 
@@ -21,6 +20,8 @@ Indigo handles web sign-in by setting the `authorization_endpoint` to [IndieAuth
 > IndieAuth.com is part of the [IndieWeb movement][why] to take back control of your online identity. Instead of logging in to websites as "you on Twitter" or "you on Facebook", **you should be able to log in as just "you"**.
 
 This allows you to sign in to certain services simply by providing your site's domain name.
+
+<!--more-->
 
 ### microformats
 
