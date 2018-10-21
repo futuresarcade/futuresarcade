@@ -15,26 +15,17 @@ paginate = 3
   PermalinkText = "🔗"
 
   # Contact/social-network identifiers for social icons
-  EmailAddress = "email.address@example.com"
-  FacebookUser = "FacebookUserName"
-  FlickrUser = "FlickrUserName"
-  GitHubUser = "GitHubUserName"
-  GitLabUser = "GitLabUserName"
-  GlitchUser = "GlitchUserName"
-  KeybaseUser = "KeybaseUserName"
-  MicroBlogUser = "MicroBlogUserName"
-  RedditUser = "RedditUserName"
-  StackOverflowUser = "StackOverflowUserName"
-  TumblrUser = "TumblrUserName"
-  TwitterUser = "TwitterUserName"
+  EmailAddress = "tmballiances@gmail.com"
+  FacebookUser = "tierramasbella"
+  TwitterUser = "futuressalon"
 
   # These are parameters used for indieweb identity. You should set these along
   # with the above email/social network parameters.
   [params.indieWeb]
-    EmailAddress = "email.address@example.com"
+    EmailAddress = "tmballiances@gmail.com"
     FlickrUser = "FlickrUserName"
     GitHubUser = "GitHubUserName"
     TwitterUser = "TwitterUserName"
     MicroBlogUser = "MicroBlogUserName"
-    Country = "CountryName"
-    City = "CityName"
+    Country = "USA"
+    City = "Miami"
