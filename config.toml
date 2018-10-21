@@ -7,11 +7,11 @@ paginate = 3
 
 [params]
   Author = "Thorvald Sanchez"
-  Description = "Description of website for head meta tag"
+  Description = "Life Art Politics Trading Books"
   Subtitle = "Life Art Politics Trading Books"
   Avatar = "images/site-logo.png"
-  Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
-  ShowBio = false
+  Biography = "It is when we all play safe that we create a world of utmost insecurity -Dag Hammarskjold"
+  ShowBio = "true"
   PermalinkText = "🔗"
 
   # Contact/social-network identifiers for social icons
