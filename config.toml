@@ -1,4 +1,4 @@
-bbaseURL = "https://www.futuresarcade.com/"
+baseURL = "https://www.futuresarcade.com/"
 title = "Futures Arcade"
 copyright = "Copyright © 2018, Author Name"
 languageCode = "en-US"
