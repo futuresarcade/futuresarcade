@@ -1,7 +1,7 @@
 ---
 title: "Author Bios"
 date: 2018-10-01T08:00:00-04:00
-draft: true
+draft: false
 categories: ["meta"]
 tags: ["options"]
 ---
@@ -20,9 +20,9 @@ A set of configuration options are used for displaying the biography.
   Avatar = "images/site-logo.svg"
   Biography = "A short description, a few sentences describing the author. Set
                the 'ShowBio' parameter to false to hide this."
-  ShowBio = true
+  ShowBio = true        
 
-[params.indieWeb]
+[params.indieWeb]  
     EmailAddress = "email.address@example.com"
     Country = "CountryName"
     City = "CityName"
