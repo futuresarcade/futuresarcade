@@ -1,8 +1,12 @@
 ---
 title: "Post 10-21-2018"
 date: 2018-10-21T15:04:09-04:00
-draft: true
+draft: false
 ---
+
+## Markets 10-21-18
+
+<!--more-->
 
 ## E-MINI Z
 
@@ -25,10 +29,7 @@ Stochastics
 |9-Day Range Raw K:|2.6
 |3-Day EMA K:%K:|13.2
 |3-Day EMA %K: %D:|23.8
-|Price today for :%K & %D xover:|71.53
+|Price today for :%K & %D xover:| a71.53
 |%K,%D at xover :|23.8
 
 ![DAILY CL Z](https://invst.ly/8xnam)
-
-
-<!--more-->
