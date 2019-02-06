@@ -22,3 +22,5 @@ The auction is divided into four parts: Cuban Art, Photography, Latin American, 
 Previews are open this week and artworks will remain on view until end of auction in the Miami Design District.
 
 We are open daily from 11 AM - 6 PM.
+
+<!--more-->
