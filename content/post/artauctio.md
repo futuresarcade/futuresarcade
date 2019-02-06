@@ -23,4 +23,4 @@ Previews are open this week and artworks will remain on view until end of auctio
 
 We are open daily from 11 AM - 6 PM.
 
-<!--more-->
+<!--More-->
